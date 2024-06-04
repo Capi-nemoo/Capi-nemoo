@@ -42,7 +42,7 @@ src="https://img.shields.io/github/followers/capi-nemoo?logo=github&style=for-th
 
 -----
 
-### Support Me
+
 
 <ul style="list-style-type: none; margin: 0;">
 
