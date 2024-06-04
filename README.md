@@ -4,8 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Computer Engineering Student
 ----------------------------
 
-Welcome to my GitHub Page. I am Renato, a Computer Engineering student from Texas Tech University. I began coding at 13 and have taken courses in HTML with the Raptor and PSInt tools available. From there, I continued plowing ahead with @Platzi https://github.com/Platzi . I have a few courses done in Python, and the one that got me excited was C++ with microcontrollers, with the favorite being the ESP32. I love learning new things about programming and sharing this knowledge with others.
-
+Welcome to my GitHub Page. I am Renato, a Computer Engineering student from Texas Tech University. I began coding at 13 and have taken courses in HTML using the Raptor and PSInt tools. From there, I continued learning with @Platzi Platzi GitHub for about a year. I also took several courses on Udemy. I have completed a few significant projects in Python, but the ones that got me most excited are the C++ projects with microcontrollers (ESP32 <3). I love learning new things about programming and carrying out the most difficult but achievable ideas.
 * 🌍  I'm based in TX, US
 * 🧠  I'm learning React Native
 * 🤝  I'm open to collaborating on Inventory control management
