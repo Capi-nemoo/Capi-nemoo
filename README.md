@@ -39,6 +39,9 @@ src="https://img.shields.io/github/followers/capi-nemoo?logo=github&style=for-th
 
 <div width="100%" align="center"><a href="https://github.com/capi-nemoo/SynthNet-Project-University" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=capi-nemoo&repo=SynthNet-Project-University&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/capi-nemoo/TerminalShare" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=capi-nemoo&repo=TerminalShare&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
 
+
+-----
+
 ### Support Me
 
 <ul style="list-style-type: none; margin: 0;">
