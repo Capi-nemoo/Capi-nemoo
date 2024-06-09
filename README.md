@@ -33,10 +33,9 @@ src="https://img.shields.io/github/followers/capi-nemoo?logo=github&style=for-th
 
 <div width="100%" align="center"><a href="https://github.com/capi-nemoo/FoodieFind" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=capi-nemoo&repo=FoodieFind&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/capi-nemoo/RoomateDetector" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=capi-nemoo&repo=RoomateDetector&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
-<br /><br /><br /><br /><br />
 
-<div width="100%" align="center"><a href="https://github.com/capi-nemoo/SynthNet-Project-University" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=capi-nemoo&repo=SynthNet-Project-University&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/capi-nemoo/TerminalShare" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=capi-nemoo&repo=TerminalShare&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
-
+![YOUTUBEEEEEE!](https://github.com/Capi-nemoo/Capi-nemoo/blob/main/0607__0608_006.gif)
+https://www.youtube.com/watch?v=At1EPKypY0Y
 
 -----
 
