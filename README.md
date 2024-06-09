@@ -6,8 +6,7 @@ Computer Engineering Student
 
 Welcome to my GitHub Page. I am Renato, a Computer Engineering student from Texas Tech University. I began coding at 13 and have taken courses in HTML using the Raptor and PSInt tools. From there, I continued learning with @Platzi Platzi GitHub for about a year. I also took several courses on Udemy. I have completed a few significant projects in Python, but the ones that got me most excited are the C++ projects with microcontrollers (ESP32 <3). I love learning new things about programming and carrying out the most difficult but achievable ideas.
 * 🌍  I'm based in TX, US
-* 🧠  I'm learning React Native
-* 🤝  I'm open to collaborating on Inventory control management project
+* 🧠  I'm learning React Native, .Net MAUI, WinUI3.
 
 <a href="https://www.github.com/capi-nemoo" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/capi-nemoo?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
