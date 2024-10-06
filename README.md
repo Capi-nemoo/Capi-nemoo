@@ -4,7 +4,7 @@
 2. Expert in the Mystical Arts of Keyboard-Driven Efficiency vim
 3. Arduino, ESP32, Raspberry...  
 
-#![#image](#https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.pixelstalk.net%2Fwp-content%2Fuploads%2F2016%2F06%2FLinux-vs-windows-microsoft-1920x1200-wallpapers.jpg&f=1&nofb=1&ipt=c4864e3b650e925475a9d9d17db35dc3b7ce47f536bcd4e4dfa72e303875222d&ipo=images)
+![image](#https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.pixelstalk.net%2Fwp-content%2Fuploads%2F2016%2F06%2FLinux-vs-windows-microsoft-1920x1200-wallpapers.jpg&f=1&nofb=1&ipt=c4864e3b650e925475a9d9d17db35dc3b7ce47f536bcd4e4dfa72e303875222d&ipo=images)
 
 * 🌍  I'm based in Texas
 * 🖥️  See my portfolio at [MyWebsite](http://btwiusearch.com)
