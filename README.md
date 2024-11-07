@@ -1,4 +1,4 @@
-#  UNIX Enthusiast | Open Source Develope | Freshman Student
+#  UNIX Enthusiast | Open Source Developer | Freshman Student
 
 1. I use Arch Linux
 2. Expert in the Mystical Arts of Keyboard-Driven Efficiency vim
