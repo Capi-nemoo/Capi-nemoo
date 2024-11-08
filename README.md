@@ -3,10 +3,9 @@
 ![image](https://github.com/user-attachments/assets/13dc7925-794e-4b1d-9258-a57623e35217)
 
 
-1. I use Arch Linux
-2. Expert in the Mystical Arts of Keyboard-Driven Efficiency vim
-3. Arduino, ESP32, Raspberry...
-
+1. Presindent - Liux Open Source Org (LOCO)
+2. I prefer to write scripts 
+3. ESP32, Raspberry <3
 
 
 ![](https://raw.githubusercontent.com/capi-nemoo/github-stats/master/generated/overview.svg#gh-dark-mode-only) 
@@ -62,3 +61,15 @@
 </div>
 
 ###
+
+<div style="display: flex; justify-content: space-around;">
+  <img src="https://github.com/user-attachments/assets/8d0e7912-a1d8-41b2-a577-0f8ec22d6e5f" alt="Imagen 1" width="320"/>
+  <img src="https://github.com/user-attachments/assets/a8612d78-17b7-49ee-ac59-2a00fa289ea7" alt="Imagen 2" width="320"/>
+  <img src="https://media1.tenor.com/m/7HfKyV17MwIAAAAC/evangelion-facepalm.gif" alt="imagen 3" width="265"/>
+</div>
+
+
+
+
+
+
