@@ -2,10 +2,8 @@
 
 ![image](https://github.com/user-attachments/assets/13dc7925-794e-4b1d-9258-a57623e35217)
 
-
-1. Presindent - Liux Open Source Org (LOCO)
-2. I prefer to write scripts 
-3. ESP32, Raspberry <3
+[![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github)](https://github.com/Naereen/badges/) [![GitHub contributors](https://img.shields.io/github/contributors/Naereen/badges.svg)](https://GitHub.com/Naereen/badges/graphs/contributors/)
+ [![Bash Shell](https://badges.frapsoft.com/bash/v1/bash.png?v=103)](https://github.com/ellerbrock/open-source-badges/) [![git](https://img.shields.io/badge/--F05032?logo=git&logoColor=ffffff)](http://git-scm.com/) ![Terminal](https://badgen.net/badge/icon/terminal?icon=terminal&label)
 
 
 ![](https://raw.githubusercontent.com/capi-nemoo/github-stats/master/generated/overview.svg#gh-dark-mode-only) 
@@ -58,9 +56,16 @@
   <a href="https://www.twitch.tv/capi_nemoo" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitch/default.svg" width="52" height="40" alt="twitch logo"  />
   </a>
-</div>
+</div> 
+
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31zj2h5asrsbyz3lhw5q5cei7fua&cover_image=true&theme=natemoo-re&show_offline=false&background_color=000000&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31zj2h5asrsbyz3lhw5q5cei7fua&redirect=true)
 
 ###
+
+
+
+###
+
 
 <div style="display: flex; justify-content: space-around;">
   <img src="https://github.com/user-attachments/assets/8d0e7912-a1d8-41b2-a577-0f8ec22d6e5f" alt="Imagen 1" width="220"/>
