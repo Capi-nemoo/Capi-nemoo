@@ -65,23 +65,18 @@
 <div align="left">
   <img src="https://github-profile-trophy.vercel.app?username=capi-nemoo&theme=nord&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph"  />
 </div>
-## 🚀 Featured Projects  
 
+## 🚀 Featured Projects  
 Here are some of the projects I've worked on, ranging from configuration tools to web applications and firmware development.  
 
 | Project                 | Language  | License        | Description |
 |-------------------------|----------|---------------|-------------|
-| **github-stats**        | Python   | GPL v3.0      | GitHub statistics analysis tool. |
 | **nemoo32**             | C/C++    | N/A           | Custom firmware development for embedded devices. |
-| **betterCmakeScript**   | Shell    | GPL v2.0      | Optimized CMake scripts for faster builds using Ninja. |
-| **nemoovim**            | Lua      | N/A           | Advanced and personalized Neovim configuration. |
-| **nemooCryptoTUI**      | C++      | N/A           | Terminal-based cryptocurrency tracking interface. |
-| **nmConfigurator**      | Rust     | N/A           | Configuration automation using Bash and Ansible. |
+| **nemoovim**            | Lua      | N/A           | Personalized Neovim configuration. |
+| **nemooCryptoTUI**      | C++      | N/A           | TUI cryptocurrency tracking using FTXUI. |
+| **nmConfigurator**      | Python     | N/A           | Arch linux instalation and configuration using Bash and Ansible. |
 | **Linux-ID-Generator**  | CSS      | GPL v2.0      | Linux ID generator with the “I use Arch btw” style. |
-| **Website-shell**       | Shell    | N/A           | Resume in a terminal-style "neofetch" format. |
-| **nemooScripter**       | Shell    | GPL v2.0      | Collection of useful Linux scripts. |
-| **nemooWeb**           | HTML     | MIT           | Personal portfolio and blog. |
-| **nemooEngine**         | EJS      | N/A           | Automated dotfile generation tool. |
+| **nemooEngine**         | EJS      | N/A           | Automated dotfile generation tool! |
 | **HiLetgo-3.5-TFT-Tutorial** | Arduino | N/A   | Guide for setting up and using TFT displays with Arduino. |
 | **SynthNet-Project**    | C++      | N/A           | Efficient bidirectional communication between ESP32 and Arduino via I2C. |
 | **nemooBoot**          | HTML     | N/A           | PXE/iPXE-based bootloader for automated OS installations. |
@@ -94,11 +89,10 @@ Here are some of the projects I've worked on, ranging from configuration tools t
 | **SitioPablo**     | HTML       | Website for Pablo. |
 | **FoodieFind**     | N/A        | Personalized restaurant recommendation app. |
 | **TerminalShare**  | N/A        | Simple web server for file sharing. |
+| **nemooWeb**       | HTML     | MIT           | Personal portfolio and blog. |
+| **Website-shell**       | Shell    | N/A           | Resume in a terminal-style "neofetch" format. |
 
 ---
-
-📌 *More projects available on [my GitHub](https://github.com/Capi-nemoo).*  
-
 
 
 
