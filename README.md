@@ -42,16 +42,6 @@
 
 ###
 
-
-<div style="display: flex; justify-content: space-around;">
-  <img src="https://github.com/user-attachments/assets/8d0e7912-a1d8-41b2-a577-0f8ec22d6e5f" alt="Imagen 1" width="220"/>
-  <img src="https://github.com/user-attachments/assets/a8612d78-17b7-49ee-ac59-2a00fa289ea7" alt="Imagen 2" width="220"/>
-  <img src="https://media1.tenor.com/m/7HfKyV17MwIAAAAC/evangelion-facepalm.gif" alt="imagen 3" width="180"/>
-  <img src="https://i.pinimg.com/originals/a2/b4/ae/a2b4ae4ebabcd10ff10a1581366f6df2.gif" alt="twitch logo" height="160" width="210"    />
-</div>
-
-##
-
 <div align="left">
   <a href="https://www.linkedin.com/in/renato-ramirez-563bb5273/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
