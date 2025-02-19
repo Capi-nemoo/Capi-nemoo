@@ -94,15 +94,6 @@ Here are some of the projects I've worked on, ranging from configuration tools t
 
 ---
 
-## Star History
-
-<a href="https://star-history.com/#bytebase/star-history&capi-nemoo/capi-nemoo&Date">
- <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=bytebase/star-history,capi-nemoo/capi-nemoo&type=Date&theme=dark" />
-   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=bytebase/star-history,capi-nemoo/capi-nemoo&type=Date" />
-   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=bytebase/star-history,capi-nemoo/capi-nemoo&type=Date" />
- </picture>
-</a>
 
 
 
